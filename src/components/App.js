@@ -1,5 +1,5 @@
 import React from "react";
-import "./App.css";
+import "../styles/App.css";
 import Header from "./Header";
 import Date from "./Date";
 import KPIs from "./KPIs";

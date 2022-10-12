@@ -1,5 +1,5 @@
 import React from "react";
-import "./Date.css";
+import "../styles/Date.css";
 
 function Date() {
   return (

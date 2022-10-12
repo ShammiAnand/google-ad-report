@@ -1,7 +1,7 @@
 import React from "react";
-import "./KPIs.css";
+import "../styles/KPIs.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import ads from "./assets/ads.png";
+import ads from "../assets/ads.png";
 
 function KPIs() {
   return (
