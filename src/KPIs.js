@@ -1,9 +1,9 @@
 import React from "react";
-import "./Metrics.css";
+import "./KPIs.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import ads from "./assets/ads.png";
 
-function Metrics() {
+function KPIs() {
   return (
     <div className="Metrics">
       <div className="Metrics__heading"> KPIs </div>
@@ -83,4 +83,4 @@ function Metrics() {
   );
 }
 
-export default Metrics;
+export default KPIs;
