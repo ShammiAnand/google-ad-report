@@ -1,4 +1,6 @@
 .Header {
+  width: 100%;
+  height: auto;
   color: #182e8b;
   background-color: #f5f7ff;
   height: 25vh;
