@@ -1,0 +1,32 @@
+.PieChart {
+  padding-top: 1rem;
+  width: 70%;
+  height: auto;
+  border-left: 2px solid #eeeeee;
+  padding-left: 1.5%;
+  display: flex;
+  flex-direction: column;
+}
+.PieChart__heading__container {
+  display: flex;
+  flex-direction: row;
+  /* justify-content: space-between; */
+  align-items: center;
+}
+
+.PieChart__container {
+  margin-top: 5%;
+  width: 30%;
+  margin-left: 35%;
+}
+
+.PieChart__heading__container img {
+  width: 1.8rem;
+  height: 1.8rem;
+}
+@media screen and (max-width: 600px) {
+  .PieChart__container {
+    width: 100%;
+    margin: 0;
+  }
+}
