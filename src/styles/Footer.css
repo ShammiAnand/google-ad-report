@@ -1,0 +1,16 @@
+.Footer {
+  width: 70%;
+  height: auto;
+  border-left: 2px solid #eeeeee;
+  padding-left: 1.5%;
+  display: flex;
+  flex-direction: column;
+  padding-top: 5%;
+  margin-bottom: 7%;
+}
+
+@media screen and (max-width: 600px) {
+  .Footer {
+    padding-top: 10%;
+  }
+}

@@ -1,0 +1,28 @@
+.Tables {
+  padding-top: 1rem;
+  width: 70%;
+  height: auto;
+  border-left: 2px solid #eeeeee;
+  padding-left: 1.5%;
+  display: flex;
+  flex-direction: column;
+}
+
+.Tables__heading__container {
+  display: flex;
+  flex-direction: row;
+  /* justify-content: space-between; */
+  align-items: center;
+}
+
+.Tables__heading {
+  font-size: 2rem;
+  font-weight: 500;
+  margin-bottom: 1%;
+  color: #576dca;
+}
+
+.Tables img {
+  width: 1.8rem;
+  height: 1.8rem;
+}
